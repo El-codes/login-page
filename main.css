@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,500&display=swap');
+body  
+{  
+
+    margin: 0;  
+    padding: 0;  
+    background-image:url(17d6ced5b0a988e6df4879cd79793f73.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    font-family: 'Montserrat'; 
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px; 
+        padding: 80px;  
+        background: #EBEDEF;  
+        border-radius: 15px ;
+        opacity: 0.6;  
+          
+} 
+button{
+            padding: 10px;
+            background-color: white;
+            border:none;
+            border-radius: 20px;
+            cursor: cursor280;
+            color: honeydew; 
+}
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+h1{  
+    text-align: center;  
+    color: #52BE80;  
+    padding: 20px;
+    opacity: 0.6;  
+}  
+label{  
+    color: #52BE80;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+span{  
+    color: black;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+}  
+img{
+            border-radius: 50%;
+	    margin-left: 100px;
+}
